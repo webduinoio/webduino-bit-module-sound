@@ -3,7 +3,7 @@
     <field name="VAR">sound</field>
     <value name="VALUE">
       <block type="sound_new">
-        <field name="pin_">10</field>
+        <field name="pin_">1</field>
       </block>
     </value>
   </block>

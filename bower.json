@@ -1,5 +1,5 @@
 {
-  "name": "webduino-bit-module-Sound",
+  "name": "webduino-bit-module-sound",
   "description": "Sound Module for Webduino:bit",
   "main": "BitSound-blockly.js",
   "authors": "",

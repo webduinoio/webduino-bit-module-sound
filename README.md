@@ -3,8 +3,8 @@
 Module for Webduino:bit Sound.
 
 ## Installation
-
-```shell
+#### bower
+```sh
 bower install https://github.com/webduinoio/webduino-bit-module-sound.git
 ```
 

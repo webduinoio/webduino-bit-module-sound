@@ -1,8 +1,8 @@
 {
   "name": "webduino-bit-module-sound",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Sound Module for Webduino:bit",
-  "main": "BitSound.js",
+  "main": "BitSound-blockly.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

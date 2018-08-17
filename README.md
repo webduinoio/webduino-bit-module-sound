@@ -1,6 +1,6 @@
 # webduino-bit-module-sound
 
-Module for Webduino:bit Sound.
+Module for Webduino:bit sound detection.
 
 ## Installation
 #### bower

@@ -1,4 +1,4 @@
-Blockly.Msg.WEBDUINO_SOUND = "聲音偵測傳感器，腳位";
+Blockly.Msg.WEBDUINO_SOUND_BIT = "聲音偵測傳感器，(Bit) 腳位";
 Blockly.Msg.WEBDUINO_SOUND_WHEN = "當";
 Blockly.Msg.WEBDUINO_SOUND_STATUS_DETECTED = "有";
 Blockly.Msg.WEBDUINO_SOUND_STATUS_ENDED = "沒有";

@@ -1,6 +1,6 @@
 {
-  "types": ["sound_new", "sound_status"],
-  "category": "toolbox",
+  "types": ["sound_new_bit", "sound_status"],
+  "category": "catMenu3",
   "scripts": [
     "blockly/blocks.js",
     "blockly/javascript.js"

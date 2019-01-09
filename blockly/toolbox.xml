@@ -1,8 +1,8 @@
-<category id="catSound" index="7">
+<category id="catSound_bit" index="7" tags="bit">
   <block type="variables_set">
     <field name="VAR">sound</field>
     <value name="VALUE">
-      <block type="sound_new">
+      <block type="sound_new_bit">
         <field name="pin_">1</field>
       </block>
     </value>
